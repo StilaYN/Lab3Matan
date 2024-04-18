@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\lab3matan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|c:\\programming\\c#\\\u0432\u044B\u0447\u043C\u0430\u0442\\lab3matan\\lab3matan\\lagrangeinterpolationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\lagrangeinterpolationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\lab3matan\\newtowninterpolationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\newtowninterpolationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\lab3matan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\lab3matan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\lab3matan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\lab3matan\\smoothingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266AF09E-E611-4B49-827C-EFD38311F032}|Lab3Matan\\Lab3Matan.csproj|solutionrelative:lab3matan\\smoothingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\Form1.Designer.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab3Matan\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:37:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmoothingMethod.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\SmoothingMethod.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\SmoothingMethod.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\SmoothingMethod.cs",
+              "RelativeToolTip": "Lab3Matan\\SmoothingMethod.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:49:12.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\Form1.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Form1.cs",
+              "RelativeToolTip": "Lab3Matan\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:49:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\Form1.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Lab3Matan\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:49:13.194Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewtownInterpolationMethod.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\NewtownInterpolationMethod.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\NewtownInterpolationMethod.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\NewtownInterpolationMethod.cs",
+              "RelativeToolTip": "Lab3Matan\\NewtownInterpolationMethod.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:49:13.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LagrangeInterpolationMethod.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\LagrangeInterpolationMethod.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\LagrangeInterpolationMethod.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\LagrangeInterpolationMethod.cs",
+              "RelativeToolTip": "Lab3Matan\\LagrangeInterpolationMethod.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:49:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3Matan\\Program.cs",
+              "ToolTip": "C:\\Programming\\C#\\\u0412\u044B\u0447\u043C\u0430\u0442\\Lab3Matan\\Lab3Matan\\Program.cs",
+              "RelativeToolTip": "Lab3Matan\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:49:13.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.exe
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.deps.json
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.runtimeconfig.json
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.pdb
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.Form1.resources
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.CopyComplete
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\refint\Lab3Matan.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.pdb
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.genruntimeconfig.cache
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\ref\Lab3Matan.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\OpenTK.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\OpenTK.GLControl.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\ScottPlot.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\ScottPlot.WinForms.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MathNet.Numerics.dll
+C:\Users\nikit\source\repos\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MatrixSolveMethod.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.AssemblyReference.cache
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.Form1.resources
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.GenerateResource.cache
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.AssemblyInfoInputs.cache
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.AssemblyInfo.cs
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.CoreCompileInputs.cache
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\refint\Lab3Matan.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.pdb
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.exe
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.deps.json
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.runtimeconfig.json
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.pdb
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MathNet.Numerics.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\OpenTK.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\OpenTK.GLControl.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\ScottPlot.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\ScottPlot.WinForms.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MatrixSolveMethod.dll
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MatrixSolveMethod.pdb
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.Up2Date
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.genruntimeconfig.cache
+C:\Users\avdee\Desktop\инфа учеба\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\ref\Lab3Matan.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.exe
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.deps.json
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.runtimeconfig.json
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\Lab3Matan.pdb
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MathNet.Numerics.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\OpenTK.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\OpenTK.GLControl.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\ScottPlot.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\ScottPlot.WinForms.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\WinForms.DataVisualization.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MatrixSolveMethod.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\bin\Debug\net7.0-windows\MatrixSolveMethod.pdb
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.AssemblyReference.cache
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.Form1.resources
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.GenerateResource.cache
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.AssemblyInfoInputs.cache
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.AssemblyInfo.cs
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.CoreCompileInputs.cache
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.csproj.Up2Date
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\refint\Lab3Matan.dll
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.pdb
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\Lab3Matan.genruntimeconfig.cache
+C:\Programming\C#\Вычмат\Lab3Matan\Lab3Matan\obj\Debug\net7.0-windows\ref\Lab3Matan.dll
